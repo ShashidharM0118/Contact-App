@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
        
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.black12),
-        useMaterial3: true,
+        useMaterial3: false,
       ),
       home: const MyHomePage(title: 'Contact List'),
     );
