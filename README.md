@@ -6,4 +6,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="assets\images\demo_view.jpg" alt="project-screenshot" width="240" height="320"/>
+<img src="assets\images\demo_view.jpg" alt="project-screenshot" width="320" height="560"/>
